@@ -1,0 +1,13 @@
+{
+  "name": "primeiro-app",
+  "version": "1.0.0",
+  "description": "Revisão de js + ts + node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
